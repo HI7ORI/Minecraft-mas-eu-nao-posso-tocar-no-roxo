@@ -47,3 +47,7 @@ main li {
     background: linear-gradient(45deg, black, red)
 }
 
+main li:hover {
+    background: linear-gradient(45deg, black, green)
+}
+
